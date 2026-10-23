@@ -1,0 +1,10 @@
+{
+  "name": "sistem-peminjaman-buku",
+  "version": "1.0.0",
+  "description": "Aplikasi CLI peminjaman buku berbasis Node.js",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
